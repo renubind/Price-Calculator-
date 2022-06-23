@@ -45,7 +45,7 @@ export default function Pricecal() {
 
 
       <div>
-        <p>©| 2022 | adarshbalika</p>
+        <p>©| 2022 | reenabind</p>
       </div>
       <div>
         <img src=".../component/twitter.png" alt="twitter"/>
