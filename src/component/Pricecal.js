@@ -48,9 +48,9 @@ export default function Pricecal() {
         <p>©| 2022 | adarshbalika</p>
       </div>
       <div>
-        <img src=".../component/twitter.png" alt="image" />
-        <img src=".../instagram.png" alt="image1" />
-        <img src=".../github.png" alt="image2" />
+        <img src=".../component/twitter.png"/>
+        <img src=".../instagram.png"  />
+        <img src=".../github.png"  />
       </div>
     </div>
   );
